@@ -1,0 +1,6 @@
+---
+description: Reglas siempre activas de la bandeja de empleo
+alwaysApply: true
+---
+
+Lee los ADR aceptados antes de un cambio de arquitectura. No afirmes que un test pasó sin ejecutarlo. No inventes experiencia del CV. No añadas dependencias ni scrapers sin decirlo. Cambios pequeños. Pide permiso antes de borrar, migrar datos ya decididos o publicar.

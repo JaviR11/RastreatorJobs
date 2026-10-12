@@ -1,0 +1,7 @@
+---
+description: Tests y CI
+globs: tests/**/*,.github/workflows/**/*
+alwaysApply: false
+---
+
+Un cambio de comportamiento lleva test. No se debilita un test para que pase.

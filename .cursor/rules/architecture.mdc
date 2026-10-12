@@ -1,0 +1,7 @@
+---
+description: Límites entre módulos de la app
+globs: src/**/*
+alwaysApply: false
+---
+
+Un adaptador por fuente. La UI no llama portales. notify no busca ofertas. Los secretos solo viven en el entorno.

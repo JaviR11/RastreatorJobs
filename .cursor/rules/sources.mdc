@@ -1,0 +1,7 @@
+---
+description: Contrato de las fuentes de empleo
+globs: src/sources/**/*
+alwaysApply: false
+---
+
+Un portal caído no tumba al resto. Si un campo no viene, queda vacío. La URL se guarda canónica. Sin proxies ni evasión de bloqueos.
