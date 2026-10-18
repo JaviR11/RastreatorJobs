@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "engram": {
+      "command": "C:\\Users\\Javi\\go\\bin\\engram.exe",
+      "args": ["mcp", "--tools=agent"],
+      "cwd": "C:\\Users\\Javi\\Desktop\\proyectos\\Rastreator\\RastreatorJobs"
+    }
+  }
+}
